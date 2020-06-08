@@ -1,0 +1,30 @@
+section{
+    background-color: #0097be;
+    border-radius:0 15px;
+    padding: 10px;
+    
+}
+
+body{
+    width: 200px;
+    margin: 0 auto;
+    color: white;
+}
+li{
+    padding: 5px;
+    margin-top: 2px;
+    border-top-style:solid black;
+    border-top-width: 21px;
+border-radius: 1px;
+    box-shadow: -15px 0 0px #72c8df;
+ 
+    list-style-position: inside;
+    list-style-type:none  ;
+   
+   
+}
+hr{
+    margin: 0;
+    padding: 0;
+    background-color: black;    
+}
